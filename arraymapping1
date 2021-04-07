@@ -1,0 +1,5 @@
+let size = [38,49,53];
+let newSize = size.map((x) => {
+ return "hello world"
+ });
+console.log(newSize);
