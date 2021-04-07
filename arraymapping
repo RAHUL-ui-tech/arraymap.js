@@ -1,7 +1,0 @@
-let size = [38,40,42];
-let newSize = size.map((value)) => {
-      return value + 1;
-   });
-console.log(newSize);
-  
-                              
